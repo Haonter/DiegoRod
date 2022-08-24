@@ -1,0 +1,6 @@
+.TextShadow{
+    text-shadow: 0.4px 0.4px 0.3px rgba(3, 42, 68, 0.7);
+}
+.TextShadow:hover{
+    text-shadow: 0.4px 0.4px 0.4px rgb(3,42,68,0.7);
+}

@@ -1,0 +1,13 @@
+.ShadowT{
+    text-shadow: 4px 0px 5px rgba(33, 35, 38, 0.701);
+}
+.ShadowT2{
+    text-shadow: 4px 0px 5px rgba(33, 35, 38, 0.650);
+}
+.drop{
+    filter: drop-shadow(2px 2px 2px rgba(35, 35, 38, 0.65)); 
+    transition: .2s;
+}
+.drop:hover{
+    transform: scale(1.2);
+}
