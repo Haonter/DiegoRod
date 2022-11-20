@@ -7,6 +7,6 @@ Pagina de presentación personal.
 - 😎 My vision is to learn more every day about the world of web development both in the front-end and in the back-end.
 
 
-- 😄 If you like my project, I would appreciate to much if you give a star to this repository.
+-😄 If you like my project, I would appreciate to much if you give a star to this repository.
 
-- 😄 Si te gustó éste proyecto, agradecería mucho si le das una estrella a este repositorio.
+-😄 Si te gustó éste proyecto, agradecería mucho si le das una estrella a este repositorio.
